@@ -43,18 +43,6 @@ The `src` folder contains three subdirectories:
     - Modifiers are written in lowercase.
     - The modifier name is separated from the block or element name by a single underscore (`_`). eg. `ComponentName_modifiername_modifiervalue`
 
-## App Design
-
-The design of the app was largely inspired by Google's [Material Design Guidelines](https://material.io/design/).
-
-The app is responsive, meaning it works across a variety of screen sizes and dimensions.
-
-![Sort Visualizer - regular (light) mode](https://i.imgur.com/wYIircd.png)
-
-The app has a switch for turning on dark mode.
-
-![Sort Visualizer - dark mode](https://i.imgur.com/HwwiX7X.png)
-
 ## License
 
 Sort Visualizer is released under the [MIT License](https://choosealicense.com/licenses/mit/)
